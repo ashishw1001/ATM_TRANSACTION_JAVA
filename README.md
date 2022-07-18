@@ -6,6 +6,6 @@ it contain two type of account
      2-> Current account 
 we can add amount , withdraw funds  , view balance .. etc
 
-#AccountTest
+AccountTest.java
 It contains account class and transaction class which manages multitreads which synchronization
 
